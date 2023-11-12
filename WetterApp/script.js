@@ -28,7 +28,7 @@ function getWeather() {
                     break;
                 case "Clouds":
                     document.getElementById("body").style.backgroundImage =
-                        "url('https://media0.giphy.com/mzedia/Cn46Wi1Fvh11S/giphy.gif?cid=ecf05e47jajqkgqiqxerh8upy797xqfgzolai8swz2rt0cr0&ep=v1_gifs_search&rid=giphy.gif&ct=g')";
+                        "url('https://media4.giphy.com/media/Cn46Wi1Fvh11S/giphy.gif?cid=ecf05e47oqa61bzz0ptx0g4fgnowttmij7o648emusmlzgd0&ep=v1_gifs_search&rid=giphy.gif&ct=g')";
                     break;
                 case "Fog":
                     document.getElementById("body").style.backgroundImage =
