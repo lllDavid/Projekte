@@ -13,7 +13,7 @@ body {
     background-size: 100% 100%;
     background-size: cover;
     background-position: center;
-    background-image: url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-image: url('https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -95,6 +95,7 @@ input[type="text"] {
 
 .btn {
     font-family: arial;
+    font-weight: bold !important;
     cursor: pointer;
     text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000 !important;
     color: #fff6a9 !important;
@@ -115,7 +116,6 @@ input[type="text"] {
     transform: scale(0.95);
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
-
 
 p {
     color: #fff;
