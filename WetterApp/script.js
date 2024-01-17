@@ -136,6 +136,6 @@ function getWeather5days() {
 
 
 function resetBackground() {
-    document.getElementById("body").style.backgroundImage = "url('https://bestideadiy.com/wp-content/uploads/2023/06/1143632.jpg')";
+    document.getElementById("body").style.backgroundImage = "url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')";
 }
 
